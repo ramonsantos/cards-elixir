@@ -1,0 +1,10 @@
+---
+version: "2"
+
+plugins:
+  editorconfig:
+    enabled: true
+  fixme:
+    enabled: true
+  markdownlint:
+    enabled: true
